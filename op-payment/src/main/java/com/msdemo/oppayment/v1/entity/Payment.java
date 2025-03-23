@@ -1,7 +1,7 @@
-package com.msdemo.oppayment.entity;
+package com.msdemo.oppayment.v1.entity;
 
-import com.msdemo.oppayment.enums.PaymentMethod;
-import com.msdemo.oppayment.enums.PaymentStatus;
+import com.msdemo.oppayment.v1.enums.PaymentMethod;
+import com.msdemo.oppayment.v1.enums.PaymentStatus;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

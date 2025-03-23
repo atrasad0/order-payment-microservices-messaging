@@ -10,8 +10,6 @@ import javax.sql.DataSource;
 import java.util.Objects;
 import java.util.stream.Stream;
 
-import static com.msdemo.oporder.config.SystemConstants.*;
-
 @Slf4j
 @Configuration
 public class DataSourceConfig {

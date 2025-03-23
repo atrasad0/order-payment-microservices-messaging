@@ -1,13 +1,10 @@
 package com.msdemo.oporder.config.kafka;
 
-import com.msdemo.oporder.v1.to.OrderTO;
-import org.apache.kafka.clients.admin.NewTopic;
+import com.msdemo.oporder.v1.transfer.to.OrderTO;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.autoconfigure.kafka.KafkaProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.kafka.config.TopicBuilder;
 import org.springframework.kafka.core.DefaultKafkaProducerFactory;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.core.ProducerFactory;

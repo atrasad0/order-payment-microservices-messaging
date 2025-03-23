@@ -1,6 +1,6 @@
 package com.msdemo.oppayment.config.kafka;
 
-import com.msdemo.oppayment.record.OrderRecord;
+import com.msdemo.oppayment.v1.transfer.record.OrderRecord;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

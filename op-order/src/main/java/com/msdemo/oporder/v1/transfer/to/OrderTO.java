@@ -1,4 +1,4 @@
-package com.msdemo.oporder.v1.to;
+package com.msdemo.oporder.v1.transfer.to;
 
 import com.msdemo.oporder.v1.enums.OrderStatus;
 import com.msdemo.oporder.v1.enums.PaymentMethod;

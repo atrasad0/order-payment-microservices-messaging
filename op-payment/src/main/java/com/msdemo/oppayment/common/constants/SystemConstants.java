@@ -1,4 +1,4 @@
-package com.msdemo.oporder.config;
+package com.msdemo.oppayment.common.constants;
 
 public class SystemConstants {
     private SystemConstants() {

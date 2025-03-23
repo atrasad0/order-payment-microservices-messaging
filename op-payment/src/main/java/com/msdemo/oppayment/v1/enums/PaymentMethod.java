@@ -1,4 +1,4 @@
-package com.msdemo.oppayment.enums;
+package com.msdemo.oppayment.v1.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
